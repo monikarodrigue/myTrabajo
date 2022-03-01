@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+}
+#app{
+    background-color: aqua;
+}
+.line{
+    height: 6px;
+    background-color: blue;
+    width: 150px;
+    margin: 8px auto;
+}
+#game{
+    background-color: blueviolet;
+    
+}
